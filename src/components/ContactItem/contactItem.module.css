@@ -2,3 +2,7 @@
   gap: 15px;
   display: flex;
 }
+
+.contact__item:not(:first-child) {
+  margin-top: 10px;
+}
